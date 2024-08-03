@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "*.cpp": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "iomanip": "cpp",
+        "xstring": "cpp",
+        "vector": "cpp"
+    },
+    "[cpp]":{
+        "files.autoGuessEncoding": false,
+        "files.enconding": "iso88591",
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
